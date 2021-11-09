@@ -37,6 +37,8 @@ void E::Ver(int x, int y, int d) {
 	cout << " " << a1 << "*" << x << " + " << b1 << "*" << y << "  =  " << d << endl;
 	cout << endl;
 	cout << " x = " << x << " y = " << y << "d = " << d << endl;
+	cout << endl;
+	cout << " x = " << x << endl;
 }
 int main() {
 	
